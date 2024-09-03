@@ -3,6 +3,16 @@ entries:
   example:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2024-09-03T11:34:13.475025879Z"
+    description: A Helm chart for Kubernetes
+    digest: 9e50e2228ac58ffd0651cc6ee4c671e4d3d4b5c70b4b9c917604790bf2197614
+    name: example
+    type: application
+    urls:
+    - https://github.com/silentops/helm-chart/releases/download/example-0.1.1/example-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2024-09-03T11:30:57.420195525Z"
     description: A Helm chart for Kubernetes
     digest: 19d7f09e8661ad77a2f27ca9b4cfa94664ca210a1246025bbdf5c1b6729c08a6
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://github.com/silentops/helm-chart/releases/download/example-0.1.0/example-0.1.0.tgz
     version: 0.1.0
-generated: "2024-09-03T11:30:57.4202143Z"
+generated: "2024-09-03T11:34:13.475034054Z"
